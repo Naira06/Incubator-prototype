@@ -1,5 +1,4 @@
 # Incubator-prototype
-## Project Overview
 ### Our project is simulation of incubator.
 ![WhatsApp Image 2022-12-22 at 5 09 44 PM (1)](https://user-images.githubusercontent.com/93448393/209165746-1d3f9761-08e9-41ac-bc40-e83d2e349a33.jpeg)
 ![WhatsApp Image 2022-12-22 at 5 09 44 PM](https://user-images.githubusercontent.com/93448393/209165461-a70e863f-5c46-40f0-9233-a5cffb4716ed.jpeg)
